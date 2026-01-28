@@ -1,5 +1,5 @@
 # proxyhub
 
-for selling proxies
+### for selling proxies
 
-### We will develop proxyhub bot here!
+##### We will develop proxyhub bot here!
